@@ -1,3 +1,2 @@
-# RPN
+# Big Int Calculator
 
-## Checking and transferring a number to RPN
